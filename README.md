@@ -1,4 +1,4 @@
-# Kcert Tutorial
+# Kcert on Kubernetes
 A easy to follow tutorial to have an automatic https cert created for your public web url. This uses excellent util by https://github.com/nabsul/kcert  
 
 # Assumption
