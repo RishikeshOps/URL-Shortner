@@ -4,7 +4,7 @@ metadata:
   labels:
     app: url
   name: url-deployment
-  namespace: url
+#  namespace: url
 spec:
   replicas: 2
   selector:
@@ -29,7 +29,7 @@ metadata:
   name: url-service
   labels:
     app: url
-  namespace: url
+#  namespace: url
 spec:
   type: NodePort
   ports:
